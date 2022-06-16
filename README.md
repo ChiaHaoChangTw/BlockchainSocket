@@ -8,3 +8,11 @@ Command for this operation:
 ~~~
 ./[clientname] [username]
 ~~~
+
+### TXCOINS
+In this operation, Main Server contacts 3 Transaction Servers to complete and record the transaction in one of the Transaction Servers.
+
+Command for this operation:
+~~~
+./[clientname] [sender username] [receiver username] [transfer amount]
+~~~
