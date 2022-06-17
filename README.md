@@ -16,3 +16,10 @@ Command for this operation:
 ~~~
 ./[clientname] [sender username] [receiver username] [transfer amount]
 ~~~
+
+### TXLIST
+
+Command for this operation:
+~~~
+./[clientname] TXLIST
+~~~
