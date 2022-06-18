@@ -23,3 +23,10 @@ Command for this operation:
 ~~~
 ./[clientname] TXLIST
 ~~~
+
+### STATS
+
+Command for this operation:
+~~~
+./[clientname] [username] stats
+~~~
