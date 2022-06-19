@@ -25,6 +25,7 @@ Command for this operation:
 ~~~
 
 ### STATS
+Provide a summary of all the transactions and a list of all the usernames who has made transactions with.
 
 Command for this operation:
 ~~~
