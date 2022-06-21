@@ -18,6 +18,7 @@ Command for this operation:
 ~~~
 
 ### TXLIST
+Client sends request to get the full text version of all the transactions that have been taking place and save it on a file located on the main server.
 
 Command for this operation:
 ~~~
